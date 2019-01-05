@@ -1,2 +1,2 @@
 # EasyWeb
-EasyWeb realtime web design editor
+EasyWeb Realtime Editor (WYSIWYG)
